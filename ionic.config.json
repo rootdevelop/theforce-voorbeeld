@@ -1,0 +1,7 @@
+{
+  "name": "TheForce",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
